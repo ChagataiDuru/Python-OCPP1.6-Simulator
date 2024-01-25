@@ -1,0 +1,2 @@
+# Python-OCPP1.6-Simulator
+ An Electric Vehicle (EV) Charger Simulator built using the Open Charge Point Protocol (OCPP) standards. This simulator, developed in Python with a graphical user interface (GUI) using tkinter, allows users to emulate the behavior of an EV charging station. It supports fundamental OCPP 1.6 functionalities, including boot notification, authorization, start and stop transactions, status notifications, and sending meter values. Ideal for testing and understanding OCPP-based charging infrastructure interactions.
